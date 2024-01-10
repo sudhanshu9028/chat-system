@@ -1,0 +1,17 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle for the background -->
+  <circle cx="50" cy="50" r="48" fill="#e0e0e0" />
+
+  <!-- Circle for the profile image -->
+  <circle cx="50" cy="50" r="40" fill="#FF5722" />
+
+  <!-- Sample face -->
+  <circle cx="50" cy="50" r="15" fill="#ecf0f1" />
+
+  <!-- Eyes -->
+  <circle cx="45" cy="45" r="2" fill="#2c3e50" />
+  <circle cx="55" cy="45" r="2" fill="#2c3e50" />
+
+  <!-- Mouth -->
+  <path d="M 45 55 Q 50 60 55 55" fill="none" stroke="#2c3e50" stroke-width="2" />
+</svg>

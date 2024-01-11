@@ -14,10 +14,4 @@ const handler = NextAuth({
   async signIn({ profile }) {},
 });
 
-export const generateStaticParams = () => {
-  return {
-    // Your additional static parameters
-  };
-};
-
 export { handler as GET, handler as POST };
